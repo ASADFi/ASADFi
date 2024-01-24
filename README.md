@@ -18,7 +18,7 @@ I'm a passionate software engineer with a focus on full-stack development, curre
 - Initiatives focusing on improving developer experience and productivity
 
 ## 📫 How to reach me
-- X:https://twitter.com/home 
+- X: https://twitter.com/theasad8
 - LinkedIn: https://www.linkedin.com/in/muhammad-asad-733375254/
 - GitHub: https://github.com/ASADFi
 
