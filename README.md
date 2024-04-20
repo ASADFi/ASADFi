@@ -20,7 +20,7 @@ I'm a passionate software engineer with a focus on full-stack development, curre
 ## 📫 How to reach me
 - X: https://twitter.com/theasad8
 - LinkedIn: https://www.linkedin.com/in/muhammad-asad-733375254/
-- GitHub: https://github.com/ASADFi
+- Gmail: meerasad636@gmail.com
 
 ## 😄 Pronouns
 - He/Him
