@@ -3,7 +3,7 @@
 I'm a  software engineer with a focus on full-stack development, currently exploring the realms of cloud computing and containerization. My journey in software development has been driven by a desire to create efficient and scalable solutions that make a positive impact.
 
 ## 🔭 I’m currently working on
-- Building robust web applications using React,Next, MongoDB, Node.js, and Express.js ...
+- Building robust web applications using React,Next, MySql, Node.js, and Express.js ...
 - Exploring cloud technologies, particularly in Azure and AWS
 - Leveraging Docker and Kubernetes for container orchestration
 - Utilizing Azure for load balancing and API gateway implementation
