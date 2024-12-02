@@ -9,7 +9,7 @@ I'm a  software engineer with a focus on full-stack development, currently explo
 - Utilizing Azure for load balancing and API gateway implementation
 
 ## 🌱 I’m currently learning
-- Advanced React patterns and performance optimization techniques
+- Advanced  patterns and performance optimization techniques
 - Best practices for cloud architecture and serverless computing
 - Kubernetes deployment strategies and managing containerized applications at scale
 
