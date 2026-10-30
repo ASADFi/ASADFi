@@ -22,8 +22,6 @@ I'm a  software engineer with a focus on full-stack development, currently explo
 - LinkedIn: https://www.linkedin.com/in/muhammad-asad-733375254/
 - Gmail: meerasad636@gmail.com
 
-## 😄 Pronouns
-- He/Him
 
 ## ⚡ Fun fact
 - I'm an avid hiker and love exploring new trails whenever I get the chance!
